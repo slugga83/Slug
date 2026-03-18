@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Logs
+*.log
